@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\MetyPeSesion2\\MiAPP1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF872B0-191E-4EFE-9409-23B2AF92AE9B}|MiAPP1.csproj|c:\\users\\gabri\\onedrive\\documentos\\metypesesion2\\miapp1\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF872B0-191E-4EFE-9409-23B2AF92AE9B}|MiAPP1.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF872B0-191E-4EFE-9409-23B2AF92AE9B}|MiAPP1.csproj|c:\\users\\gabri\\onedrive\\documentos\\metypesesion2\\miapp1\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FF872B0-191E-4EFE-9409-23B2AF92AE9B}|MiAPP1.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF872B0-191E-4EFE-9409-23B2AF92AE9B}|MiAPP1.csproj|c:\\users\\gabri\\onedrive\\documentos\\metypesesion2\\miapp1\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF872B0-191E-4EFE-9409-23B2AF92AE9B}|MiAPP1.csproj|solutionrelative:clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\MetyPeSesion2\\MiAPP1\\clases\\Persona.cs",
+              "RelativeDocumentMoniker": "clases\\Persona.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\MetyPeSesion2\\MiAPP1\\clases\\Persona.cs",
+              "RelativeToolTip": "clases\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:44:42.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\MetyPeSesion2\\MiAPP1\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\MetyPeSesion2\\MiAPP1\\FrmPrincipal.cs",
+              "RelativeToolTip": "FrmPrincipal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:26:08.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\MetyPeSesion2\\MiAPP1\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\MetyPeSesion2\\MiAPP1\\FrmPrincipal.cs [Design]",
+              "RelativeToolTip": "FrmPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:57:39.034Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

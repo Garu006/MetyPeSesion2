@@ -1,0 +1,10 @@
+C:\Users\gabri\OneDrive\Documentos\MetyPeSesion2\MiAPP1\bin\Debug\MiAPP1.exe.config
+C:\Users\gabri\OneDrive\Documentos\MetyPeSesion2\MiAPP1\bin\Debug\MiAPP1.exe
+C:\Users\gabri\OneDrive\Documentos\MetyPeSesion2\MiAPP1\bin\Debug\MiAPP1.pdb
+C:\Users\gabri\OneDrive\Documentos\MetyPeSesion2\MiAPP1\obj\Debug\MiAPP1.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\MetyPeSesion2\MiAPP1\obj\Debug\MiAPP1.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Documentos\MetyPeSesion2\MiAPP1\obj\Debug\MiAPP1.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Documentos\MetyPeSesion2\MiAPP1\obj\Debug\MiAPP1.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\MetyPeSesion2\MiAPP1\obj\Debug\MiAPP1.exe
+C:\Users\gabri\OneDrive\Documentos\MetyPeSesion2\MiAPP1\obj\Debug\MiAPP1.pdb
+C:\Users\gabri\OneDrive\Documentos\MetyPeSesion2\MiAPP1\obj\Debug\MiAPP1.chicotriangular.resources
