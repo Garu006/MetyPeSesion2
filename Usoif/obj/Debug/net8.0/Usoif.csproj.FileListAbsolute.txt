@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Documentos\MetyPeSesion2\Usoif\bin\Debug\net8.0\Usoif.exe
+C:\Users\gabri\OneDrive\Documentos\MetyPeSesion2\Usoif\bin\Debug\net8.0\Usoif.deps.json
+C:\Users\gabri\OneDrive\Documentos\MetyPeSesion2\Usoif\bin\Debug\net8.0\Usoif.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documentos\MetyPeSesion2\Usoif\bin\Debug\net8.0\Usoif.dll
+C:\Users\gabri\OneDrive\Documentos\MetyPeSesion2\Usoif\bin\Debug\net8.0\Usoif.pdb
+C:\Users\gabri\OneDrive\Documentos\MetyPeSesion2\Usoif\obj\Debug\net8.0\Usoif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\MetyPeSesion2\Usoif\obj\Debug\net8.0\Usoif.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\MetyPeSesion2\Usoif\obj\Debug\net8.0\Usoif.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\MetyPeSesion2\Usoif\obj\Debug\net8.0\Usoif.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\MetyPeSesion2\Usoif\obj\Debug\net8.0\Usoif.sourcelink.json
+C:\Users\gabri\OneDrive\Documentos\MetyPeSesion2\Usoif\obj\Debug\net8.0\Usoif.dll
+C:\Users\gabri\OneDrive\Documentos\MetyPeSesion2\Usoif\obj\Debug\net8.0\refint\Usoif.dll
+C:\Users\gabri\OneDrive\Documentos\MetyPeSesion2\Usoif\obj\Debug\net8.0\Usoif.pdb
+C:\Users\gabri\OneDrive\Documentos\MetyPeSesion2\Usoif\obj\Debug\net8.0\Usoif.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Documentos\MetyPeSesion2\Usoif\obj\Debug\net8.0\ref\Usoif.dll

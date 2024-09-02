@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\MetyPeSesion2\\Usoif\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29F5C4A3-6F24-4FCF-9CD9-F517C2097504}|Usoif.csproj|c:\\users\\gabri\\onedrive\\documentos\\metypesesion2\\usoif\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F5C4A3-6F24-4FCF-9CD9-F517C2097504}|Usoif.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F5C4A3-6F24-4FCF-9CD9-F517C2097504}|Usoif.csproj|c:\\users\\gabri\\onedrive\\documentos\\metypesesion2\\usoif\\models\\evaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F5C4A3-6F24-4FCF-9CD9-F517C2097504}|Usoif.csproj|solutionrelative:models\\evaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Evaluation.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\MetyPeSesion2\\Usoif\\models\\Evaluation.cs",
+              "RelativeDocumentMoniker": "models\\Evaluation.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\MetyPeSesion2\\Usoif\\models\\Evaluation.cs",
+              "RelativeToolTip": "models\\Evaluation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T13:22:33.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\MetyPeSesion2\\Usoif\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\MetyPeSesion2\\Usoif\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA6wBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T13:18:40.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
